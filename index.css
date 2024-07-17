@@ -272,5 +272,25 @@ button {
   .insta-contact svg {
     color: #e53671;
   }
+  .store {
+    font-size: .9rem;
+  }
 }
 
+.store {
+  color: #e53671;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+.store-bold {
+  font-weight: 800;
+  color: #e53671;
+}
+.footer-text {
+  margin-inline:auto;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
